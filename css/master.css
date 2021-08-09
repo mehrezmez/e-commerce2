@@ -108,6 +108,7 @@ header {
     height: 100vh;
     background-image: url(../images/pexels-the-lazy-artist-gallery-9992671.jpg);
     background-size: cover;
+    background-position: center;
 }
 header .container {
     position: relative;
